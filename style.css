@@ -47,3 +47,14 @@ hr {
     display: inline;
     padding: 0rem 0.5rem;
 }
+
+.navigation {
+    background-color: var(--primary-colore);
+    color: white;
+    padding: 1rem;
+
+}
+
+.navigation .link {
+    color: white;
+}
