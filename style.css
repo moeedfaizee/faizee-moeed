@@ -1,1 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?famy=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+    padding-left: 1rem;
+    padding-right: 3rem;
+
+}
