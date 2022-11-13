@@ -52,12 +52,21 @@ hr {
     background-color: var(--primary-colore);
     color: white;
     padding: 1rem;
+    border-bottom-left-radius: 1rem;
 
 }
 
+.navigation .nav-brand {
+    font-weight: bold;
+}
 .navigation .nav-pills {
-    text-decoration: double;
+    text-align: right;
 }
+
 .navigation .link {
     color: white;
+}
+
+.navigation .link-active {
+    font-weight: bold;
 }
