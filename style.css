@@ -55,6 +55,9 @@ hr {
 
 }
 
+.navigation .nav-pills {
+    text-decoration: double;
+}
 .navigation .link {
     color: white;
 }
