@@ -23,7 +23,7 @@ hr {
     max-width: 600px;
     margin: auto;
     padding-top: 2rem;
-    text-align: center;
+    
 }
 
 .link {
@@ -109,10 +109,7 @@ hr {
     padding: 2rem;
 }
 
-.section h1 {
-    text-align: center;
-   
-}
+
 .ow {
     background-color: var(--off-white);
 }
